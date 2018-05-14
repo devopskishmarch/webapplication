@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>commad line interface deployment example 1</h2>
+<h2>tomcat example</h2>
 </body>
 </html>
