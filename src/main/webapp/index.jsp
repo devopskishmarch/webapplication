@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>tomcat example</h2>
+<h2>this is automact changes reflect in jenkins using poll scm changes</h2>
 </body>
 </html>
